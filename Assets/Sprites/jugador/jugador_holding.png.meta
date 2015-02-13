@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: a4ae8739757cd48f287dd9fbd4ceeea7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jugador_holding_0
+    21300002: jugador_holding_1
+    21300004: jugador_holding_2
+    21300006: jugador_holding_3
+    21300008: jugador_holding_4
+    21300010: jugador_holding_5
+    21300012: jugador_holding_6
+    21300014: jugador_holding_7
+    21300016: jugador_holding_8
+    21300018: jugador_holding_9
+    21300020: jugador_holding_10
+    21300022: jugador_holding_11
+    21300024: jugador_holding_12
+    21300026: jugador_holding_13
+    21300028: jugador_holding_14
+    21300030: jugador_holding_15
+    21300032: jugador_holding_16
+    21300034: jugador_holding_17
+    21300036: jugador_holding_18
+    21300038: jugador_holding_19
+    21300040: jugador_holding_20
+    21300042: jugador_holding_21
+    21300044: jugador_holding_22
+    21300046: jugador_holding_23
+    21300048: jugador_holding_24
+    21300050: jugador_holding_25
+    21300052: jugador_holding_26
+    21300054: jugador_holding_27
+    21300056: jugador_holding_28
+    21300058: jugador_holding_29
+    21300060: jugador_holding_30
+    21300062: jugador_holding_31
+    21300064: jugador_holding_32
+    21300066: jugador_holding_33
+    21300068: jugador_holding_34
+    21300070: jugador_holding_35
+    21300072: jugador_holding_36
+    21300074: jugador_holding_37
+    21300076: jugador_holding_38
+    21300078: jugador_holding_39
+    21300080: jugador_holding_40
+    21300082: jugador_holding_41
+    21300084: jugador_holding_42
+    21300086: jugador_holding_43
+    21300088: jugador_holding_44
+    21300090: jugador_holding_45
+    21300092: jugador_holding_46
+    21300094: jugador_holding_47
+    21300096: jugador_holding_48
+    21300098: jugador_holding_49
+    21300100: jugador_holding_50
+    21300102: jugador_holding_51
+    21300104: jugador_holding_52
+    21300106: jugador_holding_53
+    21300108: jugador_holding_54
+    21300110: jugador_holding_55
+    21300112: jugador_holding_56
+    21300114: jugador_holding_57
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jugador_holding_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 907
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 907
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 907
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 907
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 907
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_5
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 907
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_6
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 907
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_7
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 907
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_8
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 907
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_9
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 907
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 790
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 790
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 790
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 790
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 790
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_15
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 790
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_16
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 790
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_17
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 790
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_18
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 790
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_19
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 790
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 673
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 673
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 673
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 673
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_24
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 673
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_25
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 673
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_26
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 673
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_27
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 673
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_28
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 673
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_29
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 673
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 556
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 556
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 556
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_33
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 556
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_34
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 556
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_35
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 556
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_36
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 556
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_37
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 556
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_38
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 556
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_39
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 556
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 439
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 439
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 439
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 439
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_44
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 439
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_45
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 439
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_46
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 439
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_47
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 439
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_48
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 439
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_49
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 439
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 322
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 322
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_53
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 322
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_54
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 322
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_55
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 322
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_56
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 322
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_holding_57
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 322
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

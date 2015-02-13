@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 7dca485d5f5034feda22e7cfa1f10fef
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jugador_climb_0
+    21300002: jugador_climb_1
+    21300004: jugador_climb_2
+    21300006: jugador_climb_3
+    21300008: jugador_climb_4
+    21300010: jugador_climb_5
+    21300012: jugador_climb_6
+    21300014: jugador_climb_7
+    21300016: jugador_climb_8
+    21300018: jugador_climb_9
+    21300020: jugador_climb_10
+    21300022: jugador_climb_11
+    21300024: jugador_climb_12
+    21300026: jugador_climb_13
+    21300028: jugador_climb_14
+    21300030: jugador_climb_15
+    21300032: jugador_climb_16
+    21300034: jugador_climb_17
+    21300036: jugador_climb_18
+    21300038: jugador_climb_19
+    21300040: jugador_climb_20
+    21300042: jugador_climb_21
+    21300044: jugador_climb_22
+    21300046: jugador_climb_23
+    21300048: jugador_climb_24
+    21300050: jugador_climb_25
+    21300052: jugador_climb_26
+    21300054: jugador_climb_27
+    21300056: jugador_climb_28
+    21300058: jugador_climb_29
+    21300060: jugador_climb_30
+    21300062: jugador_climb_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jugador_climb_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 906
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 906
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 906
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 906
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 906
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_5
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 906
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_6
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 906
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_7
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 906
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_8
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 906
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 788
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 788
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 788
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 788
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 788
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_14
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 788
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 788
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_16
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 788
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_17
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 788
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 670
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 670
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 670
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 670
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 670
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_23
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 670
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_24
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 670
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_25
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 670
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_26
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 670
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 552
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 552
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 552
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 552
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_climb_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 552
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

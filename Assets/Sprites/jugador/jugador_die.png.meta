@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: 0cb748d4bd4d74170b4b674486e50d66
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jugador_die_0
+    21300002: jugador_die_1
+    21300004: jugador_die_2
+    21300006: jugador_die_3
+    21300008: jugador_die_4
+    21300010: jugador_die_5
+    21300012: jugador_die_6
+    21300014: jugador_die_7
+    21300016: jugador_die_8
+    21300018: jugador_die_9
+    21300020: jugador_die_10
+    21300022: jugador_die_11
+    21300024: jugador_die_12
+    21300026: jugador_die_13
+    21300028: jugador_die_14
+    21300030: jugador_die_15
+    21300032: jugador_die_16
+    21300034: jugador_die_17
+    21300036: jugador_die_18
+    21300038: jugador_die_19
+    21300040: jugador_die_20
+    21300042: jugador_die_21
+    21300044: jugador_die_22
+    21300046: jugador_die_23
+    21300048: jugador_die_24
+    21300050: jugador_die_25
+    21300052: jugador_die_26
+    21300054: jugador_die_27
+    21300056: jugador_die_28
+    21300058: jugador_die_29
+    21300060: jugador_die_30
+    21300062: jugador_die_31
+    21300064: jugador_die_32
+    21300066: jugador_die_33
+    21300068: jugador_die_34
+    21300070: jugador_die_35
+    21300072: jugador_die_36
+    21300074: jugador_die_37
+    21300076: jugador_die_38
+    21300078: jugador_die_39
+    21300080: jugador_die_40
+    21300082: jugador_die_41
+    21300084: jugador_die_42
+    21300086: jugador_die_43
+    21300088: jugador_die_44
+    21300090: jugador_die_45
+    21300092: jugador_die_46
+    21300094: jugador_die_47
+    21300096: jugador_die_48
+    21300098: jugador_die_49
+    21300100: jugador_die_50
+    21300102: jugador_die_51
+    21300104: jugador_die_52
+    21300106: jugador_die_53
+    21300108: jugador_die_54
+    21300110: jugador_die_55
+    21300112: jugador_die_56
+    21300114: jugador_die_57
+    21300116: jugador_die_58
+    21300118: jugador_die_59
+    21300120: jugador_die_60
+    21300122: jugador_die_61
+    21300124: jugador_die_62
+    21300126: jugador_die_63
+    21300128: jugador_die_64
+    21300130: jugador_die_65
+    21300132: jugador_die_66
+    21300134: jugador_die_67
+    21300136: jugador_die_68
+    21300138: jugador_die_69
+    21300140: jugador_die_70
+    21300142: jugador_die_71
+    21300144: jugador_die_72
+    21300146: jugador_die_73
+    21300148: jugador_die_74
+    21300150: jugador_die_75
+    21300152: jugador_die_76
+    21300154: jugador_die_77
+    21300156: jugador_die_78
+    21300158: jugador_die_79
+    21300160: jugador_die_80
+    21300162: jugador_die_81
+    21300164: jugador_die_82
+    21300166: jugador_die_83
+    21300168: jugador_die_84
+    21300170: jugador_die_85
+    21300172: jugador_die_86
+    21300174: jugador_die_87
+    21300176: jugador_die_88
+    21300178: jugador_die_89
+    21300180: jugador_die_90
+    21300182: jugador_die_91
+    21300184: jugador_die_92
+    21300186: jugador_die_93
+    21300188: jugador_die_94
+    21300190: jugador_die_95
+    21300192: jugador_die_96
+    21300194: jugador_die_97
+    21300196: jugador_die_98
+    21300198: jugador_die_99
+    21300200: jugador_die_100
+    21300202: jugador_die_101
+    21300204: jugador_die_102
+    21300206: jugador_die_103
+    21300208: jugador_die_104
+    21300210: jugador_die_105
+    21300212: jugador_die_106
+    21300214: jugador_die_107
+    21300216: jugador_die_108
+    21300218: jugador_die_109
+    21300220: jugador_die_110
+    21300222: jugador_die_111
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jugador_die_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3811
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3811
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3811
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_3
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 3811
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_4
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 3811
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_5
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 3811
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_6
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 3811
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_7
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 3811
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3526
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3526
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_10
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3526
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_11
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 3526
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_12
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 3526
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_13
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 3526
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_14
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 3526
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_15
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 3526
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3241
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3241
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_18
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3241
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_19
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 3241
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_20
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 3241
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_21
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 3241
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_22
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 3241
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_23
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 3241
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2956
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_25
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2956
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_26
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2956
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_27
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 2956
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_28
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2956
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_die_29
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 2956
+        width: 491
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

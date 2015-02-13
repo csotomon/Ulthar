@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: 9f2c0cbd807e74f53ab7d5d433f99c19
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jugador_idle_0
+    21300002: jugador_idle_1
+    21300004: jugador_idle_2
+    21300006: jugador_idle_3
+    21300008: jugador_idle_4
+    21300010: jugador_idle_5
+    21300012: jugador_idle_6
+    21300014: jugador_idle_7
+    21300016: jugador_idle_8
+    21300018: jugador_idle_9
+    21300020: jugador_idle_10
+    21300022: jugador_idle_11
+    21300024: jugador_idle_12
+    21300026: jugador_idle_13
+    21300028: jugador_idle_14
+    21300030: jugador_idle_15
+    21300032: jugador_idle_16
+    21300034: jugador_idle_17
+    21300036: jugador_idle_18
+    21300038: jugador_idle_19
+    21300040: jugador_idle_20
+    21300042: jugador_idle_21
+    21300044: jugador_idle_22
+    21300046: jugador_idle_23
+    21300048: jugador_idle_24
+    21300050: jugador_idle_25
+    21300052: jugador_idle_26
+    21300054: jugador_idle_27
+    21300056: jugador_idle_28
+    21300058: jugador_idle_29
+    21300060: jugador_idle_30
+    21300062: jugador_idle_31
+    21300064: jugador_idle_32
+    21300066: jugador_idle_33
+    21300068: jugador_idle_34
+    21300070: jugador_idle_35
+    21300072: jugador_idle_36
+    21300074: jugador_idle_37
+    21300076: jugador_idle_38
+    21300078: jugador_idle_39
+    21300080: jugador_idle_40
+    21300082: jugador_idle_41
+    21300084: jugador_idle_42
+    21300086: jugador_idle_43
+    21300088: jugador_idle_44
+    21300090: jugador_idle_45
+    21300092: jugador_idle_46
+    21300094: jugador_idle_47
+    21300096: jugador_idle_48
+    21300098: jugador_idle_49
+    21300100: jugador_idle_50
+    21300102: jugador_idle_51
+    21300104: jugador_idle_52
+    21300106: jugador_idle_53
+    21300108: jugador_idle_54
+    21300110: jugador_idle_55
+    21300112: jugador_idle_56
+    21300114: jugador_idle_57
+    21300116: jugador_idle_58
+    21300118: jugador_idle_59
+    21300120: jugador_idle_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jugador_idle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_5
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_6
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_8
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1903
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_19
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_20
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_21
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_22
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_23
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_24
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_25
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_26
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_27
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_29
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_30
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_31
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1758
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_35
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_36
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_37
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_38
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_39
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_40
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_41
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_42
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_43
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_44
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_45
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_46
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_47
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1613
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_49
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_50
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_51
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_52
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_53
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_54
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_55
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_56
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_57
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_58
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_59
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_idle_60
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1468
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: c2d739c4d424d4f1babf1fd1496241a9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jugador_walk_0
+    21300002: jugador_walk_1
+    21300004: jugador_walk_2
+    21300006: jugador_walk_3
+    21300008: jugador_walk_4
+    21300010: jugador_walk_5
+    21300012: jugador_walk_6
+    21300014: jugador_walk_7
+    21300016: jugador_walk_8
+    21300018: jugador_walk_9
+    21300020: jugador_walk_10
+    21300022: jugador_walk_11
+    21300024: jugador_walk_12
+    21300026: jugador_walk_13
+    21300028: jugador_walk_14
+    21300030: jugador_walk_15
+    21300032: jugador_walk_16
+    21300034: jugador_walk_17
+    21300036: jugador_walk_18
+    21300038: jugador_walk_19
+    21300040: jugador_walk_20
+    21300042: jugador_walk_21
+    21300044: jugador_walk_22
+    21300046: jugador_walk_23
+    21300048: jugador_walk_24
+    21300050: jugador_walk_25
+    21300052: jugador_walk_26
+    21300054: jugador_walk_27
+    21300056: jugador_walk_28
+    21300058: jugador_walk_29
+    21300060: jugador_walk_30
+    21300062: jugador_walk_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jugador_walk_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 891
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 891
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 891
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_3
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 891
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 891
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 891
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_6
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 891
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_7
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 891
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 758
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 758
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 758
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 758
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 758
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 758
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_14
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 758
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_15
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 758
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 625
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 625
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 625
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_19
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 625
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 625
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_21
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 625
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 625
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_23
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 625
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 492
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 492
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 492
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_27
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 492
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_28
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 492
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_29
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 492
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_30
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 492
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_walk_31
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 492
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

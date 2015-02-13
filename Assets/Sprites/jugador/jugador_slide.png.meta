@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: 3af4f567da7c64f049961ba166a12267
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jugador_slide_0
+    21300002: jugador_slide_1
+    21300004: jugador_slide_2
+    21300006: jugador_slide_3
+    21300008: jugador_slide_4
+    21300010: jugador_slide_5
+    21300012: jugador_slide_6
+    21300014: jugador_slide_7
+    21300016: jugador_slide_8
+    21300018: jugador_slide_9
+    21300020: jugador_slide_10
+    21300022: jugador_slide_11
+    21300024: jugador_slide_12
+    21300026: jugador_slide_13
+    21300028: jugador_slide_14
+    21300030: jugador_slide_15
+    21300032: jugador_slide_16
+    21300034: jugador_slide_17
+    21300036: jugador_slide_18
+    21300038: jugador_slide_19
+    21300040: jugador_slide_20
+    21300042: jugador_slide_21
+    21300044: jugador_slide_22
+    21300046: jugador_slide_23
+    21300048: jugador_slide_24
+    21300050: jugador_slide_25
+    21300052: jugador_slide_26
+    21300054: jugador_slide_27
+    21300056: jugador_slide_28
+    21300058: jugador_slide_29
+    21300060: jugador_slide_30
+    21300062: jugador_slide_31
+    21300064: jugador_slide_32
+    21300066: jugador_slide_33
+    21300068: jugador_slide_34
+    21300070: jugador_slide_35
+    21300072: jugador_slide_36
+    21300074: jugador_slide_37
+    21300076: jugador_slide_38
+    21300078: jugador_slide_39
+    21300080: jugador_slide_40
+    21300082: jugador_slide_41
+    21300084: jugador_slide_42
+    21300086: jugador_slide_43
+    21300088: jugador_slide_44
+    21300090: jugador_slide_45
+    21300092: jugador_slide_46
+    21300094: jugador_slide_47
+    21300096: jugador_slide_48
+    21300098: jugador_slide_49
+    21300100: jugador_slide_50
+    21300102: jugador_slide_51
+    21300104: jugador_slide_52
+    21300106: jugador_slide_53
+    21300108: jugador_slide_54
+    21300110: jugador_slide_55
+    21300112: jugador_slide_56
+    21300114: jugador_slide_57
+    21300116: jugador_slide_58
+    21300118: jugador_slide_59
+    21300120: jugador_slide_60
+    21300122: jugador_slide_61
+    21300124: jugador_slide_62
+    21300126: jugador_slide_63
+    21300128: jugador_slide_64
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jugador_slide_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1922
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1922
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1922
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1922
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_4
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1922
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_5
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1922
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_6
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1922
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_7
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1922
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_8
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1922
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_9
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1922
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_10
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1922
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_11
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1922
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1796
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1796
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1796
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_15
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1796
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_16
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1796
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1796
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_18
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1796
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_19
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1796
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_20
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1796
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_21
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1796
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_22
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1796
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_23
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1796
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1670
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1670
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1670
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_27
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1670
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_28
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1670
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_29
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1670
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_30
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1670
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_31
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1670
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_32
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1670
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_33
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1670
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_34
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1670
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_35
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1670
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1544
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1544
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1544
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_39
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1544
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_40
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1544
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_41
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1544
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_42
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1544
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_43
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1544
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_44
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1544
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_45
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1544
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_46
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1544
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_47
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1544
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1418
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1418
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1418
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_51
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1418
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_52
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1418
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_53
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1418
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_54
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1418
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_55
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1418
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_56
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1418
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_57
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1418
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_58
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1418
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_59
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1418
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1292
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1292
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_62
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1292
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_63
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1292
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jugador_slide_64
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1292
+        width: 162
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
