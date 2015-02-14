@@ -24,11 +24,11 @@ public class LevelManager : MonoBehaviour
 	public float OutroFadeDuration=1f;
 	
 	// private stuff
-	private CharacterBehavior _player;
-	private List<CheckPoint> _checkpoints;
-	private int _currentCheckPointIndex;
-	private DateTime _started;
-	private int _savedPoints;
+	protected CharacterBehavior _player;
+	protected List<CheckPoint> _checkpoints;
+	protected int _currentCheckPointIndex;
+	protected DateTime _started;
+	protected int _savedPoints;
 	
 	/// <summary>
 	/// On awake, instantiates the player
@@ -152,11 +152,12 @@ public class LevelManager : MonoBehaviour
 	/// <returns>The player co.</returns>
 	private IEnumerator KillPlayerCo()
 	{
+		Debug.Log("entro aqui 2");
 		_player.Kill();
-		Camera.FollowsPlayer=false;
+		//Camera.FollowsPlayer=false;
 		yield return new WaitForSeconds(2f);
 		
-		Camera.FollowsPlayer=true;
+		//Camera.FollowsPlayer=true;
 		if (_currentCheckPointIndex!=-1)
 			_checkpoints[_currentCheckPointIndex].SpawnPlayer(_player);
 		
