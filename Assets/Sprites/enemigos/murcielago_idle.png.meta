@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 54ca1cf57bc294e5ead2a2b5d97874d0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: murcielago_0
+    21300002: murcielago_1
+    21300004: murcielago_2
+    21300006: murcielago_3
+    21300008: murcielago_4
+    21300010: murcielago_5
+    21300012: murcielago_6
+    21300014: murcielago_7
+    21300016: murcielago_8
+    21300018: murcielago_9
+    21300020: murcielago_10
+    21300022: murcielago_11
+    21300024: murcielago_12
+    21300026: murcielago_13
+    21300028: murcielago_14
+    21300030: murcielago_15
+    21300032: murcielago_16
+    21300034: murcielago_17
+    21300036: murcielago_18
+    21300038: murcielago_19
+    21300040: murcielago_20
+    21300042: murcielago_21
+    21300044: murcielago_22
+    21300046: murcielago_23
+    21300048: murcielago_24
+    21300050: murcielago_25
+    21300052: murcielago_26
+    21300054: murcielago_27
+    21300056: murcielago_28
+    21300058: murcielago_29
+    21300060: murcielago_30
+    21300062: murcielago_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: murcielago_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 915
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 915
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 915
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 915
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 915
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_5
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 915
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_6
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 915
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 806
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 806
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 806
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 806
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_11
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 806
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 806
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_13
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 806
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 697
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 697
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 697
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_17
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 697
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_18
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 697
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_19
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 697
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_20
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 697
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 588
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 588
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_23
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 588
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_24
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 588
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_25
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 588
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_26
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 588
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_27
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 588
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 479
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 479
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 479
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_31
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 479
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

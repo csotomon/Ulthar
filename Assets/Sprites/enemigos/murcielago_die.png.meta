@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 24bfedd9fb37f41eab3ff6ddf97af6ed
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: murcielago_die_0
+    21300002: murcielago_die_1
+    21300004: murcielago_die_2
+    21300006: murcielago_die_3
+    21300008: murcielago_die_4
+    21300010: murcielago_die_5
+    21300012: murcielago_die_6
+    21300014: murcielago_die_7
+    21300016: murcielago_die_8
+    21300018: murcielago_die_9
+    21300020: murcielago_die_10
+    21300022: murcielago_die_11
+    21300024: murcielago_die_12
+    21300026: murcielago_die_13
+    21300028: murcielago_die_14
+    21300030: murcielago_die_15
+    21300032: murcielago_die_16
+    21300034: murcielago_die_17
+    21300036: murcielago_die_18
+    21300038: murcielago_die_19
+    21300040: murcielago_die_20
+    21300042: murcielago_die_21
+    21300044: murcielago_die_22
+    21300046: murcielago_die_23
+    21300048: murcielago_die_24
+    21300050: murcielago_die_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: murcielago_die_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1867
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1867
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1867
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1867
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_4
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1867
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_5
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1867
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_6
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1867
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_7
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1867
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1686
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1686
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1686
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1686
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_12
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1686
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_13
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1686
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_14
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1686
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_15
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1686
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1505
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1505
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1505
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_19
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1505
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_20
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1505
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_21
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1505
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_22
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1505
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_23
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1505
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1324
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: murcielago_die_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1324
+        width: 235
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
