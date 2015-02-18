@@ -42,6 +42,8 @@ public class CharacterBehavior : MonoBehaviour,CanTakeDamage
 	public AudioClip PlayerHitSfx;
 	// the sound to play when the player shoots
 	public AudioClip PlayerShootSfx;
+
+	public CorgiController2D Controller{ get{return _controller;} }
 	
 	/// is true if the character can jump
 	public bool JumpAuthorized 
@@ -214,6 +216,7 @@ public class CharacterBehavior : MonoBehaviour,CanTakeDamage
 		_animator.SetBool("Firing",BehaviorState.Firing);
 		_animator.SetInteger("FiringDirection",BehaviorState.FiringDirection);
 		_animator.SetBool("MeleeAttacking",BehaviorState.MeleeAttacking);
+		_animator.SetBool("Dead",BehaviorState.IsDead);
 	}
 	
 	/// <summary>
@@ -420,6 +423,7 @@ public class CharacterBehavior : MonoBehaviour,CanTakeDamage
 		_jumpButtonReleased=false;
 		
 		_controller.SetVerticalForce(Mathf.Sqrt( 2f * BehaviorParameters.JumpHeight * Mathf.Abs(_controller.Parameters.Gravity) ));
+		if(!BehaviorState.IsDead)
 		_animator.Play( Animator.StringToHash( "jumpAndFall" ) );
 		
 		// we play the jump sound
@@ -900,7 +904,7 @@ public class CharacterBehavior : MonoBehaviour,CanTakeDamage
 	/// Activates or desactivates the gravity for this character only.
 	/// </summary>
 	/// <param name="state">If set to <c>true</c>, activates the gravity. If set to <c>false</c>, turns it off.</param>
-	private void GravityActive(bool state)
+	public void GravityActive(bool state)
 	{
 		if (state==true)
 		{
@@ -916,7 +920,7 @@ public class CharacterBehavior : MonoBehaviour,CanTakeDamage
 			_controller.Parameters.Gravity = 0;
 		}
 	}
-	
+
 	/// <summary>
 	/// Coroutine used to make the character's sprite flicker (when hurt for example).
 	/// </summary>
@@ -943,13 +947,16 @@ public class CharacterBehavior : MonoBehaviour,CanTakeDamage
 	{
 		// we make it ignore the collisions from now on
 		_controller.HandleCollisions=false;
+		GravityActive(false);
+		_controller.
 		collider2D.enabled=false;
 		// we set its dead state to true
 		BehaviorState.IsDead=true;
 		// we set its health to zero (useful for the healthbar)
 		Health=0;
+		_animator.Play( Animator.StringToHash( "Die" ) );
 		// we send it in the air
-		_controller.SetForce(new Vector2(0,10));		
+		//_controller.SetForce(new Vector2(0,10));		
 	}
 	
 	/// <summary>
@@ -997,13 +1004,15 @@ public class CharacterBehavior : MonoBehaviour,CanTakeDamage
 		
 		// When the character takes damage, we create an auto destroy hurt particle system
 		Instantiate(HurtEffect,transform.position,transform.rotation);
+		/*
 		// we prevent the character from colliding with layer 12 (Projectiles) and 13 (Enemies)
 		Physics2D.IgnoreLayerCollision(9,12,true);
 		Physics2D.IgnoreLayerCollision(9,13,true);
 		// We make the character's sprite flicker
 		Color initialColor = renderer.material.color;
 		Color flickerColor = new Color32(255, 20, 20, 255); 
-		StartCoroutine(Flicker(initialColor,flickerColor,0.05f));		
+		StartCoroutine(Flicker(initialColor,flickerColor,0.05f));
+		*/
 		// we decrease the character's health by the damage
 		Health -= damage;
 		if (Health<=0)

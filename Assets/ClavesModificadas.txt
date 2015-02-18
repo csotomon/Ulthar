@@ -1,2 +1,14 @@
 * LevelManager
 	Se cambiaron los atributos private por protected
+	
+*CharacterBehavior
+	En kill se quito lo que hace que salga volando el player
+	Se agrego:
+		public CorgiController2D Controller{ get{return _controller;} }
+	se hizo publica
+		public void GravityActive(bool state)
+	se modifico funcion
+		public void TakeDamage(int damage,GameObject instigator)
+	Se agrego en updateAnimator ()
+		_animator.SetBool("Dead",BehaviorState.IsDead);
+		

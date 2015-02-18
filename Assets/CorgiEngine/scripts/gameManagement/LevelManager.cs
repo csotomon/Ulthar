@@ -152,10 +152,16 @@ public class LevelManager : MonoBehaviour
 	/// <returns>The player co.</returns>
 	private IEnumerator KillPlayerCo()
 	{
-		Debug.Log("entro aqui 2");
+		_player.Controller.SetForce(new Vector2(0,0));
+		_player.GravityActive(false);
 		_player.Kill();
+		_player.Controller.enabled=false;
 		//Camera.FollowsPlayer=false;
-		yield return new WaitForSeconds(2f);
+
+		yield return new WaitForSeconds(1f);
+
+		_player.GravityActive(true);
+		_player.Controller.enabled=true;
 		
 		//Camera.FollowsPlayer=true;
 		if (_currentCheckPointIndex!=-1)
